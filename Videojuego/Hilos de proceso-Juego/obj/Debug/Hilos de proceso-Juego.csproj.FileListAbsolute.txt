@@ -1,0 +1,10 @@
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\bin\Debug\Hilos de proceso-Juego.exe.config
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\bin\Debug\Hilos de proceso-Juego.exe
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\bin\Debug\Hilos de proceso-Juego.pdb
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos de proceso-Juego.csproj.AssemblyReference.cache
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos_de_proceso_Juego.Form1.resources
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos_de_proceso_Juego.Properties.Resources.resources
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos de proceso-Juego.csproj.GenerateResource.cache
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos de proceso-Juego.csproj.CoreCompileInputs.cache
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos de proceso-Juego.exe
+C:\Users\cayce\OneDrive\Escritorio\Videojuego\Hilos de proceso-Juego\obj\Debug\Hilos de proceso-Juego.pdb
